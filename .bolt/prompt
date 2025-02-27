@@ -1,5 +1,6 @@
 Design a fully responsive, production-ready email template using MJML.
 The email should adhere to modern, minimalist design principles. The template should be structured using MJML components and should not rely on additional UI libraries or frameworks unless explicitly requested.
-Use valid image URLs from sources like Unsplash (ensure they are not embedded). Test and verify that the image URLs are functional and accessible.
+Use valid image URLs from reliable sources such as Unsplash or Pexels. If you know of other trustworthy sources, you can use them as well. Do not embed images directly.
+Test and verify that the image URLs are functional and accessible.
 You can review the index.mjml file, which represents the email template. Make your changes directly to the index.mjml file based on the requirements.
 

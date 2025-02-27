@@ -5,14 +5,14 @@
   "license": "MIT",
   "scripts": {
     "build": "node build.js",
-    "dev": "npm run build && wait-on ./index.html && npx http-server ./ -p 3000 -o"
+    "dev": "npm run build && wait-on ./index.html && browser-sync start --server ./ --files './index.html' --port 3000"
   },
   "dependencies": {
-    "http-server": "^14.1.1",
-    "mjml": "^4.15.3",
-    "mjml-server": "^1.0.5"
+    "mjml": "^4.15.3"
   },
   "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "http-server": "^14.1.1",
     "wait-on": "^8.0.2"
   }
 }

@@ -32,7 +32,11 @@
         <mj-divider width="30px" border-width="3px" border-color="#9B9B9B"></mj-divider>
       </mj-column>
     </mj-section>
-
+    <mj-section padding="0 20px 20px 20px" background-color="#FFFFFF">
+      <mj-column width="80%">
+        <mj-text align="center" padding-top="10px" font-weight="500" padding="0px">A Right Media Mix Can Make The Difference.</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-url="http://nimus.de/share/tpl-card/bg.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
       <mj-column width="100%">
         <mj-image src="http://nimus.de/share/tpl-card/lineshadow.png" alt="" align="center" border="none" padding="0px"></mj-image>
@@ -43,6 +47,11 @@
     <mj-section padding="50px 0 0 0" background-color="#FFFFFF">
       <mj-column>
         <mj-image src="http://nimus.de/share/tpl-card/bottom.png" alt="bottom border" align="center" border="none" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-text align="center" color="#9B9B9B" font-size="11px"><a href="#" style="color: #9B9B9B;">Unsubscribe</a> from this newsletter<br />52 Edison Court Suite 259 / East Aidabury / Cambodi<br /> <a href="#" style="color: #9B9B9B; text-decoration:none;">Made by svenhaustein.de</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>

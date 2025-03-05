@@ -5,7 +5,7 @@
   "scripts": {
     "build": "mjml index.mjml -o index.html",
     "watch": "chokidar index.mjml -c 'npm run build'",
-    "dev": "npm run build && concurrently \"npm run watch\" \"live-server --watch=index.html --port=3000\""
+    "dev": "npm run build && concurrently \"npm run watch\" \"live-server --watch=index.html,index.mjml --port=3000 --wait=100\""
   },
   "dependencies": {
     "mjml": "^4.13.0"

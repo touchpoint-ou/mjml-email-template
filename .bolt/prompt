@@ -1,7 +1,17 @@
-Design a fully responsive, production-ready email template using MJML.
+Design a fully responsive, **mobile-friendly**, and production-ready email template using MJML.
 
-The email should adhere to modern, minimalist design principles. The template should be structured using MJML components and should not rely on additional UI libraries or frameworks unless explicitly requested.
-Use valid image URLs from reliable sources such as Pexels, Unsplash, Freepik, StockSnap. If you know of other trustworthy sources, you can use them as well. Do not embed images directly.
-Test and verify that the image URLs are functional and accessible.
+#### Requirements:
+- Follow **modern, minimalist design principles**.
+- Use only **MJML components**; do not rely on additional UI libraries or frameworks unless explicitly requested.
+- Ensure the **final UI looks good on mobile screens** by designing a **fully responsive layout** that adapts well to different screen sizes.
+- **Select images from multiple reliable sources** such as **Pexels, Unsplash, Freepik, StockSnap**, or other **trusted stock image providers**. Do **not** limit selections to only one source.
+- **Verify that each image URL is functional, publicly accessible, and valid** before including it in the template. **Avoid broken or invalid links**.
+- Do **not** embed images directly; use external URLs.
+- Ensure **proper spacing, padding, and font sizing** for an optimal reading experience on mobile devices.
+- **Test and ensure** that the template renders correctly across different email clients and devices.
 
-You must review the index.mjml file, which serves as the email template example. Make all necessary changes directly within the index.mjml file based on the requirements. Always update only this file and do not create any additional MJML files.
+#### File Handling:
+- You must **review and modify** the `index.mjml` file (which serves as the email template example).
+- Make all necessary changes **only within this file**. **Do not create additional MJML files**.
+
+The final email design should be **aesthetically pleasing, easy to read, and fully functional on both desktop and mobile devices**.

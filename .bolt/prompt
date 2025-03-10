@@ -1,17 +1,21 @@
-Design a fully responsive, **mobile-friendly**, and production-ready email template using MJML.
+Design a fully responsive, production-ready email template using MJML.
 
-#### Requirements:
-- Follow **modern, minimalist design principles**.
-- Use only **MJML components**; do not rely on additional UI libraries or frameworks unless explicitly requested.
-- Ensure the **final UI looks good on mobile screens** by designing a **fully responsive layout** that adapts well to different screen sizes.
-- **Select images from multiple reliable sources** such as **Pexels, Unsplash, Freepik, StockSnap**, or other **trusted stock image providers**. Do **not** limit selections to only one source.
-- **Verify that each image URL is functional, publicly accessible, and valid** before including it in the template. **Avoid broken or invalid links**.
-- Do **not** embed images directly; use external URLs.
-- Ensure **proper spacing, padding, and font sizing** for an optimal reading experience on mobile devices.
-- **Test and ensure** that the template renders correctly across different email clients and devices.
+The email should adhere to modern, minimalist design principles. The template should be structured using MJML components and should not rely on additional UI libraries or frameworks unless explicitly requested.
 
-#### File Handling:
-- You must **review and modify** the `index.mjml` file (which serves as the email template example).
-- Make all necessary changes **only within this file**. **Do not create additional MJML files**.
+- Choose images from reliable sources such as:
+  - Unsplash
+  - Pexels
+  - Freepik
+  - StockSnap
+  - Any other trustworthy image sources that are known for providing valid, high-quality images.
 
-The final email design should be **aesthetically pleasing, easy to read, and fully functional on both desktop and mobile devices**.
+- **Important:** Before including an image in the template, **validate** the image URL to ensure it is functional and accessible. The image must load properly without any broken links. You can check the link by opening it in a browser or using a URL validator tool to confirm it is active.
+
+- **Test all image URLs** to ensure they are working properly.
+
+Once you've chosen the images, ensure they are linked properly and provide a clean, minimalist design that will look good on both desktop and mobile devices. The layout should be **responsive** and should adjust fluidly when viewed on mobile screens. Use MJML components to structure the email, ensuring compatibility with various email clients.
+
+Do not embed images directly in the email template—only use external image URLs.
+
+Make sure the design looks great and is fully responsive on mobile devices.
+

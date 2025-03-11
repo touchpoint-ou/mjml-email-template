@@ -19,7 +19,15 @@ Make your changes directly to the `index.mjml` file based on the requirements.
 - **Before using an image**, validate its URL to ensure it is:
   - **Functional** (loads properly in a browser).
   - **Accessible** (not broken or restricted).
-- **Test all image URLs** before finalizing the template.
+  - **Valid** (make sure the URL is active and not expired or broken).
+- **Test all image URLs** before finalizing the template to ensure proper display.
+
+### Links in Header:
+- **Do not** include clickable links in the email header that resemble links typically found on websites (e.g., navigation menus or header links), as this is just an email template. The header should not mimic a website’s navigation behavior.
+
+### Footer Logos:
+- Pay extra attention to **footer logos**: Ensure that the logos are properly displayed and **not distorted** or **crashed** in the footer.
+- Test their visibility across different email clients to make sure they render correctly and are not hidden.
 
 ### Final Considerations:
 - The design must look **polished, professional, and fully responsive** on both **desktop and mobile devices**.

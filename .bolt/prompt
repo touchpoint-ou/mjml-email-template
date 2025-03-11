@@ -25,8 +25,8 @@ Review and edit the `index.mjml` file to meet the following requirements.
 
 8. **Footer Icons & Logos:** Ensure **footer logos** and **social media icons** (e.g., **Facebook**, **Twitter**, **Instagram**) are:
    - Properly sized, **aligned**, and **clearly visible** without distortion.
-   - Icons and containers have **high contrast** (avoid matching icon and background colors).
-   - Icons should be **distinct** and **recognizable**, not appear as empty blocks.
+   - Icons and containers must have **high contrast**; avoid using white icons on white backgrounds or any similar matching color combinations.
+   - Ensure icons and their containers have **distinct and contrasting colors** to make them **easily recognizable** and not appear as empty blocks.
 
 9. **Design Polished & Professional:**
    - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and **simple** yet **elegant design**.

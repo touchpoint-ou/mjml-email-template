@@ -1,16 +1,41 @@
-Review and edit the `index.mjml` file to meet these requirements:
+Review and edit the `index.mjml` file to meet the following requirements.
 
-1. **MJML Only:** Use **MJML components** for layout and styling. No third-party libraries or custom HTML unless specified.
-2. **Mobile-First & Responsive:** Ensure the design is **mobile-first** and works across all devices.
-3. **Distinct Section Backgrounds:** Use **different background colors** for each section for better readability.
-4. **High Contrast:** Ensure **high contrast** between text and background for readability.
-5. **External Images:** Use **external image URLs** from reliable sources like **Unsplash**, **Pexels**, etc.
-6. **Image Validation:** Ensure image URLs are **functional** and **accessible**.
-7. **Header:** No **navigation links** in the header.
-8. **Footer Icons:** Ensure **social media icons** and **footer logos** are properly sized, visible, aligned, and contrast well with the background.
-9. **Professional Design:** The email should have a **clean, elegant layout**, **good typography**, and a **premium look**.
+### Requirements:
+
+1. **Use Only MJML Components:**
+   - Stick to **MJML components** for layout and styling. No third-party libraries or custom HTML unless specified.
+
+2. **Mobile-First, Fully Responsive:**
+   - Ensure the design is **mobile-first** and **responsive** across all devices and email clients.
+
+3. **Distinct Section Backgrounds:**
+   - Use distinct **background colors** for each section to improve readability and aesthetics.
+
+4. **High Contrast:**
+   - Ensure **high contrast** between text and background for **easy readability** across environments.
+
+5. **External Images (No Embedding):**
+   - Use **external image URLs** from **reliable and trusted sources** such as **Unsplash**, **Pexels**, **Freepik**, or **StockSnap**.
+
+6. **Image URL Validation:**
+   - Validate image URLs to ensure they are **functional**, **accessible**, and **active**.
+
+7. **Header (No Navigation Links):**
+   - Do not include **navigation links** in the header.
+
+8. **Footer Icons & Logos:** Ensure **footer logos** and **social media icons** are:
+   - Properly sized and clearly visible.
+   - Aligned correctly and not distorted.
+   - Icons should have **high contrast** with the background for visibility.
+   - Ensure **icon container colors** are distinguishable (e.g., avoid white icons on a white background).
+   - Social media icons (Facebook, Twitter, Instagram) should be **visibly clear** and not appear as empty blocks.
+
+
+9. **Design Polished & Professional:**
+   - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and **simple** yet **elegant design**.
 
 ---
 
-### Additional:
-- Ensure **social media icons** in the footer are **well-sized** and **clearly visible**, with **appropriate contrast**.
+### Additional Instructions:
+
+- **Social Media Icons:** Ensure that **social media icons** (e.g., Facebook, Twitter, Instagram) in the footer are **properly sized**, **clearly visible**, and have **contrasting icon and container colors** that make them easily identifiable across all email clients.

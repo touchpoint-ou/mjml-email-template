@@ -1,34 +1,58 @@
-### Task:
-You can review the `index.mjml` file, which represents the email template.
-Make your changes directly to the `index.mjml` file based on the requirements.
+### Task Overview:
+You are tasked with reviewing and editing the `index.mjml` file for an email template. Make the necessary adjustments based on the following requirements to ensure the template meets the specified standards.
 
 ### Requirements:
-- Use **only MJML components**—do **not** include additional UI libraries or frameworks unless explicitly requested.
-- Ensure the email is **mobile-first** and fully responsive across devices and email clients.
-- Each **section** should have a **background color distinct from the main container** to create visual separation.
-- Maintain **high contrast** between text and background colors for readability.
-- Do **not** embed images directly—use only **external image URLs**.
 
-### Image Selection & Validation:
-- Source high-quality images from reputable platforms, such as:
-  - Unsplash
-  - Pexels
-  - Freepik
-  - StockSnap
-  - Other **trustworthy** sources known for **valid, high-quality images**.
-- **Before using an image**, validate its URL to ensure it is:
-  - **Functional** (loads properly in a browser).
-  - **Accessible** (not broken or restricted).
-  - **Valid** (make sure the URL is active and not expired or broken).
-- **Test all image URLs** before finalizing the template to ensure proper display.
+1. **Strict Use of MJML Components:**
+   - Only use **MJML components** for layout and styling.
+   - **Do not include** third-party UI libraries, frameworks, or custom HTML unless explicitly requested.
 
-### Links in Header:
-- **Do not** include clickable links in the email header that resemble links typically found on websites (e.g., navigation menus or header links), as this is just an email template. The header should not mimic a website’s navigation behavior.
+2. **Mobile-First, Fully Responsive Design:**
+   - Focus on creating a **mobile-first** design that is **responsive across all devices and email clients**.
+   - Ensure the layout adapts seamlessly to mobile screens while still looking great on desktop devices.
 
-### Footer Logos:
-- Pay extra attention to **footer logos**: Ensure that the logos are properly displayed and **not distorted** or **crashed** in the footer.
-- Test their visibility across different email clients to make sure they render correctly and are not hidden.
+3. **Distinct Section Backgrounds:**
+   - **Ensure each section** in the email has a **distinct background color** that contrasts with the main container’s background.
+   - This helps visually separate sections, enhancing readability and aesthetics.
 
-### Final Considerations:
-- The design must look **polished, professional, and fully responsive** on both **desktop and mobile devices**.
-- Prioritize **clean, elegant typography** and a **well-balanced layout** for a premium user experience.
+4. **High Contrast for Readability:**
+   - Use **high contrast** between text and background colors to ensure the content is **easy to read** across various environments and devices.
+   - Pay special attention to the contrast ratios for accessibility compliance.
+
+5. **External Image URLs (No Embedding):**
+   - **Do not embed images** directly into the email. Use **external image URLs**.
+   - Sources should be **trusted and reputable** platforms like:
+     - Unsplash
+     - Pexels
+     - Freepik
+     - StockSnap
+     - Other trusted sources
+
+6. **Image URL Validation:**
+   - Validate all image URLs to ensure they:
+     - Are **functional** and load correctly in browsers.
+     - Are **accessible** and not broken or restricted.
+     - Are **active** and not expired.
+
+7. **Header Structure (No Navigation Links):**
+   - The header should **not contain navigation links** (e.g., main menu links).
+   - Do not mimic **website navigation behavior** in the email header.
+
+8. **Footer Logos and Social Icons:**
+   - Ensure the **footer logos** are displayed clearly and **properly sized** across all email clients.
+   - Social media icons in the footer should be:
+     - Clearly visible
+     - **Properly sized** and aligned
+     - Not broken or misaligned
+
+9. **Final Design Considerations:**
+   - The final email design should be **polished**, **professional**, and have a **premium look**.
+   - The layout should feature **clean typography**, be **well-balanced**, and look great on both **desktop** and **mobile devices**.
+   - Keep the design **simple**, **elegant**, and **user-friendly**.
+
+---
+
+### Additional Instructions:
+
+- **Social Media Icons:** Ensure that the footer contains clearly visible social media icons (e.g., Facebook, Twitter, Instagram) that are properly sized and displayed across all email clients. These icons should not be hidden or distorted.
+

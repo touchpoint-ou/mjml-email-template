@@ -1,58 +1,38 @@
 ### Task Overview:
-You are tasked with reviewing and editing the `index.mjml` file for an email template. Make the necessary adjustments based on the following requirements to ensure the template meets the specified standards.
+Review and edit the `index.mjml` file to meet the following requirements.
 
 ### Requirements:
 
-1. **Strict Use of MJML Components:**
-   - Only use **MJML components** for layout and styling.
-   - **Do not include** third-party UI libraries, frameworks, or custom HTML unless explicitly requested.
+1. **Use Only MJML Components:**
+   - Stick to **MJML components** for layout and styling. No third-party libraries or custom HTML unless specified.
 
-2. **Mobile-First, Fully Responsive Design:**
-   - Focus on creating a **mobile-first** design that is **responsive across all devices and email clients**.
-   - Ensure the layout adapts seamlessly to mobile screens while still looking great on desktop devices.
+2. **Mobile-First, Fully Responsive:**
+   - Ensure the design is **mobile-first** and **responsive** across all devices and email clients.
 
 3. **Distinct Section Backgrounds:**
-   - **Ensure each section** in the email has a **distinct background color** that contrasts with the main container’s background.
-   - This helps visually separate sections, enhancing readability and aesthetics.
+   - Use distinct **background colors** for each section to improve readability and aesthetics.
 
-4. **High Contrast for Readability:**
-   - Use **high contrast** between text and background colors to ensure the content is **easy to read** across various environments and devices.
-   - Pay special attention to the contrast ratios for accessibility compliance.
+4. **High Contrast:**
+   - Ensure **high contrast** between text and background for **easy readability** across environments.
 
-5. **External Image URLs (No Embedding):**
-   - **Do not embed images** directly into the email. Use **external image URLs**.
-   - Sources should be **trusted and reputable** platforms like:
-     - Unsplash
-     - Pexels
-     - Freepik
-     - StockSnap
-     - Other trusted sources
+5. **External Images (No Embedding):**
+   - Use **external image URLs** from trusted sources (e.g., Unsplash, Pexels, Freepik).
 
 6. **Image URL Validation:**
-   - Validate all image URLs to ensure they:
-     - Are **functional** and load correctly in browsers.
-     - Are **accessible** and not broken or restricted.
-     - Are **active** and not expired.
+   - Validate image URLs to ensure they are **functional**, **accessible**, and **active**.
 
-7. **Header Structure (No Navigation Links):**
-   - The header should **not contain navigation links** (e.g., main menu links).
-   - Do not mimic **website navigation behavior** in the email header.
+7. **Header (No Navigation Links):**
+   - Do not include **navigation links** in the header.
 
 8. **Footer Logos and Social Icons:**
-   - Ensure the **footer logos** are displayed clearly and **properly sized** across all email clients.
-   - Social media icons in the footer should be:
-     - Clearly visible
-     - **Properly sized** and aligned
-     - Not broken or misaligned
+   - Ensure **footer logos** and **social icons** are **properly sized** and **visible**. Social icons should be displayed correctly across all email clients and not as empty blocks.
 
-9. **Final Design Considerations:**
-   - The final email design should be **polished**, **professional**, and have a **premium look**.
-   - The layout should feature **clean typography**, be **well-balanced**, and look great on both **desktop** and **mobile devices**.
-   - Keep the design **simple**, **elegant**, and **user-friendly**.
+9. **Design Polished & Professional:**
+   - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and **simple** yet **elegant design**.
 
 ---
 
 ### Additional Instructions:
 
-- **Social Media Icons:** Ensure that the footer contains clearly visible social media icons (e.g., Facebook, Twitter, Instagram) that are properly sized and displayed across all email clients. These icons should not be hidden or distorted.
+- **Social Media Icons:** Ensure **social media icons** (e.g., Facebook, Twitter, Instagram) are **clearly visible** and **properly sized** in the footer across all email clients.
 

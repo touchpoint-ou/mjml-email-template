@@ -1,4 +1,3 @@
-### Task Overview:
 Review and edit the `index.mjml` file to meet the following requirements.
 
 ### Requirements:
@@ -25,7 +24,11 @@ Review and edit the `index.mjml` file to meet the following requirements.
    - Do not include **navigation links** in the header.
 
 8. **Footer Logos and Social Icons:**
-   - Ensure **footer logos** and **social icons** are **properly sized** and **visible**. Social icons should be displayed correctly across all email clients and not as empty blocks.
+   - Ensure **footer logos** and **social media icons** are **properly sized**, **clearly visible**, and not distorted or misaligned.
+   - **Icons should be properly styled**:
+     - Set appropriate **icon colors** that contrast well with the background.
+     - Ensure **icon container colors** are distinguishable (e.g., avoid white icons on a white background).
+     - Ensure the social media icons (e.g., Facebook, Twitter, Instagram) are **properly aligned**, **visible**, and **not appearing as empty blocks**.
 
 9. **Design Polished & Professional:**
    - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and **simple** yet **elegant design**.
@@ -34,5 +37,5 @@ Review and edit the `index.mjml` file to meet the following requirements.
 
 ### Additional Instructions:
 
-- **Social Media Icons:** Ensure **social media icons** (e.g., Facebook, Twitter, Instagram) are **clearly visible** and **properly sized** in the footer across all email clients.
+- **Social Media Icons:** Ensure that **social media icons** (e.g., Facebook, Twitter, Instagram) in the footer are **properly sized**, **clearly visible**, and have **contrasting icon and container colors** that make them easily identifiable across all email clients.
 

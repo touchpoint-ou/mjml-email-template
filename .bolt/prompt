@@ -16,7 +16,7 @@ Review and edit the `index.mjml` file to meet the following requirements.
    - Ensure **high contrast** between text and background for **easy readability** across environments.
 
 5. **External Images (No Embedding):**
-   - Use **external image URLs** from trusted sources (e.g., Unsplash, Pexels, Freepik).
+   - Use **external image URLs** from **reliable and trusted sources** such as **Unsplash**, **Pexels**, **Freepik**, or **StockSnap**.
 
 6. **Image URL Validation:**
    - Validate image URLs to ensure they are **functional**, **accessible**, and **active**.

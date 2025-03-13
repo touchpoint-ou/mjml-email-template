@@ -3,7 +3,8 @@ Review and edit the `index.mjml` file to meet the following requirements.
 ### Requirements:
 
 1. **Use Only MJML Components:**
-   - Stick to **MJML components** for layout and styling. No third-party libraries or custom HTML unless specified.
+   - Stick to **MJML components** for layout and styling.
+   - No third-party libraries or custom HTML unless specified.
 
 2. **Mobile-First, Fully Responsive:**
    - Ensure the design is **mobile-first** and **responsive** across all devices and email clients.
@@ -14,19 +15,22 @@ Review and edit the `index.mjml` file to meet the following requirements.
 4. **High Contrast:**
    - Ensure **high contrast** between text and background for **easy readability** across environments.
 
-5. **External Images (No Embedding):**
-   - Use **external image URLs** from **reliable and trusted sources** such as **Unsplash**, **Pexels**, **Freepik**, or **StockSnap**.
+5. **Support Both External & User-Provided Images:**
+   - Allow images from **two sources**:
+     - **External Image URLs** from trusted sources (e.g., **Unsplash, Pexels, Freepik, StockSnap**).
+     - **User-Provided Base64 Images** when specified.
+   - If a user adds an image in **Base64 format**, include it directly inside the template.
+   - Validate image URLs to ensure they are **functional, accessible, and active** when using external sources.
 
-6. **Image URL Validation:**
-   - Validate image URLs to ensure they are **functional**, **accessible**, and **active**.
-
-7. **Header (No Navigation Links):**
+6. **Header (No Navigation Links):**
    - Do not include **navigation links** in the header.
 
-8. **Footer Icons & Logos:** Ensure **footer logos** and **social media icons** (e.g., **Facebook**, **Twitter**, **Instagram**) are:
-   - Properly sized, **aligned**, and **clearly visible** without distortion.
-   - Icons and containers must have **high contrast**; avoid using white icons on white backgrounds or any similar matching color combinations.
-   - Ensure icons and their containers have **distinct and contrasting colors** to make them **easily recognizable** and not appear as empty blocks.
+7. **Footer Icons & Logos:**
+   - Ensure **footer logos** and **social media icons** (e.g., **Facebook, Twitter, Instagram**) are:
+     - Properly sized, **aligned**, and **clearly visible** without distortion.
+     - Icons and containers must have **high contrast**.
+     - Avoid using white icons on white backgrounds or any similar matching color combinations.
+     - Ensure icons and their containers have **distinct and contrasting colors** to make them **easily recognizable**.
 
-9. **Design Polished & Professional:**
-   - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and **simple** yet **elegant design**.
+8. **Design Polished & Professional:**
+   - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and a **simple yet elegant design**.

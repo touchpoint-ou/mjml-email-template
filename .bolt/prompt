@@ -15,12 +15,10 @@ Review and edit the `index.mjml` file to meet the following requirements.
 4. **High Contrast:**
    - Ensure **high contrast** between text and background for **easy readability** across environments.
 
-5. **Support Both External & User-Provided Images:**
-   - Allow images from **two sources**:
-     - **External Image URLs** from trusted sources (e.g., **Unsplash, Pexels, Freepik, StockSnap**).
-     - **User-Provided Base64 Images** when specified.
-   - If a user adds an image in **Base64 format**, include it directly inside the template.
-   - Validate image URLs to ensure they are **functional, accessible, and active** when using external sources.
+5. **Support External Image URLs:**  
+   - Allow images from **trusted external sources** (e.g., **Unsplash, Pexels, Freepik, StockSnap**).  
+   - If the user provides an **image URL** and requests to include it in the **correspondence section**, ensure it is added appropriately.  
+   - Validate image URLs to ensure they are **functional, accessible, and active** before including them.  
 
 6. **Header (No Navigation Links):**
    - Do not include **navigation links** in the header.

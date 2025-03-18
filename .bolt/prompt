@@ -1,4 +1,5 @@
-Review and edit the `index.mjml` file to meet the following requirements.
+Review and edit only the `index.mjml` file to meet the following requirements.  
+⚠️ Do not modify any other files except `index.mjml`—this is very important.  
 
 ### Requirements:
 
@@ -17,7 +18,7 @@ Review and edit the `index.mjml` file to meet the following requirements.
 
 5. **Support External Image URLs:**  
    - Allow images from **trusted external sources** (e.g., **Unsplash, Pexels, Freepik, StockSnap**).  
-   - If the user provides an **image URL** and requests to include it in the **correspondence section**, ensure it is added appropriately.  
+   - If an **image URL** is provided for the **correspondence section**, ensure it is added appropriately.  
    - Validate image URLs to ensure they are **functional, accessible, and active** before including them.  
 
 6. **Header (No Navigation Links):**
@@ -32,3 +33,6 @@ Review and edit the `index.mjml` file to meet the following requirements.
 
 8. **Design Polished & Professional:**
    - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and a **simple yet elegant design**.
+
+🚨 **Important:**  
+Only modify `index.mjml`. Do not change any other files under any circumstances.

@@ -3,63 +3,80 @@ Review and edit only the `index.mjml` file to meet the following requirements.
 
 ### Requirements:
 
-1. **Use Only MJML Components:**
-   - Stick to **MJML components** for layout and styling.
-   - No third-party libraries or custom HTML unless specified.
+  1. **Use Only MJML Components:**
+     - Stick to **MJML components** for layout and styling.
+     - No third-party libraries or custom HTML unless specified.
 
-2. **Mobile-First, Fully Responsive:**
-   - Ensure the design is **mobile-first** and **responsive** across all devices and email clients.
+  2. **Mobile-First, Fully Responsive:**
+     - Ensure the design is **mobile-first** and **responsive** across all devices and email clients.
 
-3. **Distinct Section Backgrounds:**
-   - Use distinct **background colors** for each section to improve readability and aesthetics.
+  3. **Distinct Section Backgrounds:**
+     - Use distinct **background colors** for each section to improve readability and aesthetics.
 
-4. **High Contrast:**
-   - Ensure **high contrast** between text and background for **easy readability** across environments.
+  4. **High Contrast:**
+     - Ensure **high contrast** between text and background for **easy readability** across environments.
 
-5. **Support External Image URLs:**  
-   - Allow images from **trusted external sources** (e.g., **Unsplash, Pexels, Freepik, StockSnap**).  
-   - If an **image URL** is provided for the **correspondence section**, ensure it is added appropriately.  
-   - Validate image URLs to ensure they are **functional, accessible, and active** before including them.
+  5. **Support External Image URLs:**  
+     - Allow images from **trusted external sources** (e.g., **Unsplash, Pexels, Freepik, StockSnap**).  
+     - If an **image URL** is provided for the **correspondence section**, ensure it is added appropriately.  
+     - Validate image URLs to ensure they are **functional, accessible, and active** before including them.
 
-6. **Header (No Navigation Links):**
-   - Do not include **navigation links** in the header.
+  6. **Header (No Navigation Links):**
+     - Do not include **navigation links** in the header.
 
-7. **Footer Icons & Logos:**
-   - Ensure **footer logos** and **social media icons** (e.g., **Facebook, Twitter, Instagram**) are:
-     - Properly sized, **aligned**, and **clearly visible** without distortion.
-     - Icons and containers must have **high contrast**.
-     - Avoid using white icons on white backgrounds or any similar matching color combinations.
-     - Ensure icons and their containers have **distinct and contrasting colors** to make them **easily recognizable**.
+  7. **Footer Icons & Logos:**
+     - Ensure **footer logos** and **social media icons** (e.g., **Facebook, Twitter, Instagram**) are:
+       - Properly sized, **aligned**, and **clearly visible** without distortion.
+       - Icons and containers must have **high contrast**.
+       - Avoid using white icons on white backgrounds or any similar matching color combinations.
+       - Ensure icons and their containers have **distinct and contrasting colors** to make them **easily recognizable**.
 
-8. **Design Polished & Professional:**
-   - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and a **simple yet elegant design**.
+  8. **Design Polished & Professional:**
+     - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and a **simple yet elegant design**.
 
-### Theme Details:
-- Primary Color: #2D3E50 (Deep blue for text)
-- Secondary Color: #FF6F61 (Vibrant coral for accents)
-- Background Color: #F9FAFB (Light, neutral gray background)
-- CTA Button Text Color: #FFFFFF (White for high contrast)
-- Footer Background Color: #1A1A1A (Dark footer for contrast)
-- Border Color: #E0E0E0 (Subtle border color for separation)
-- Link Color: #007BFF (Modern blue for links)
+  ### Theme Layout Settings:
 
-### Typography:
-- Primary Font: Poppins, Arial, sans-serif
-- Heading Font: Poppins, Arial, sans-serif
-- Body Font Size: 16px
-- Heading Font Size: 24px
-- Button Font Size: 16px
+  #### Border Radius:
+  - **Button Border Radius:** 6px
+  - **General Border Radius:** 6px (For smooth edges on buttons, cards, and containers)
 
-### Button Styles:
-- Background: linear-gradient(to right, #FF6F61, #DD2476)
-- Border Radius: 6px
-- Padding: 12px
-- Font Size: 16px
-- Font Weight: Bold
+  #### Padding:
+  - **Button Padding:** 12px
+  - **Footer Padding:** 20px
+  - **Section Padding:** 20px (For ample space between sections)
 
-### Footer Styles:
-- Footer Text Alignment: Center
-- Footer Padding: 20px
-- Social Icon Size: 30px
+  #### Margins:
+  - **General Margin:** 20px (For spacing between content and container edges)
+  - **Section Margin:** 20px (Margin between individual sections for clarity)
+  
+  #### Line Heights:
+  - **Body Line Height:** 1.5 (For comfortable text readability)
+  - **Heading Line Height:** 1.3 (For better visual separation of headings)
 
-Ensure that the design meets the requirements while maintaining a clean, professional, and visually appealing layout. Stick strictly to the given design parameters, focusing on a premium, polished look.
+  #### Font Sizes:
+  - **Body Font Size:** 16px (Standard body font size for readability)
+  - **Heading Font Size:** 24px (For strong, clear headings)
+
+  #### Font Weights:
+  - **Body Font Weight:** Normal (For easy-to-read body text)
+  - **Heading Font Weight:** Bold (To make headings stand out)
+
+  #### Max Width:
+  - **Max Width:** 600px (Ensures email content is readable on all devices)
+
+  #### Text Alignment:
+  - **Header Text Align:** Center
+  - **Body Text Align:** Left (For better reading flow)
+
+  #### Font Family:
+  - **Primary Font (Body & Text):** "Roboto, Arial, sans-serif" (Modern, clean, and legible)
+  - **Heading Font:** "Roboto, Arial, sans-serif" (Consistent font for both headings and body text for a harmonious look)
+
+  ### Important Notes:
+  - Choose **modern, aesthetically pleasing** colors based on the requirements above. The color palette should be visually balanced, appealing to a wide audience, and ensure high contrast for readability.
+  - The layout should focus on **responsive design**, ensuring the email looks good on both mobile devices and desktop.
+  - The email design should incorporate **sufficient white space**, making the email feel clean and polished.
+  - Typography should be **consistent**, ensuring the text is legible across devices and environments.
+  - The overall layout should follow **best practices** for UX/UI design, maintaining a **simple yet elegant** appearance.
+
+  Stick strictly to the given design parameters. Focus on creating a **modern, beautiful email layout** using MJML components only. The template should be responsive, easy to read, and visually appealing.

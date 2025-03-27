@@ -46,8 +46,6 @@ Review and edit only the `index.mjml` file to meet the following requirements.
 - Section Background Color: #F0F4F8 (Soft grayish blue for sections)
 - Accent Color: #F7A800 (Bright amber to highlight key sections)
 - Subtle Accent Color: #B5B5B5 (Light gray for subtle accents like borders or dividers)
-- Button Gradient Start: #FF6F61 (Vibrant coral)
-- Button Gradient End: #DD2476 (Rich magenta)
 - Hover Button Color: #FF5C8D (Muted coral pink for hover effects)
 - Success Color: #28A745 (Vibrant green for success messages or actions)
 - Warning Color: #FFC107 (Yellow for warning or important messages)
@@ -64,7 +62,6 @@ Review and edit only the `index.mjml` file to meet the following requirements.
 - Button Font Size: 16px
 
 ### Button Styles:
-- Background: linear-gradient(to right, #FF6F61, #DD2476)
 - Border Radius: 6px
 - Padding: 12px
 - Font Size: 16px

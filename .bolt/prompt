@@ -19,7 +19,7 @@ Review and edit only the `index.mjml` file to meet the following requirements.
 5. **Support External Image URLs:**  
    - Allow images from **trusted external sources** (e.g., **Unsplash, Pexels, Freepik, StockSnap**).  
    - If an **image URL** is provided for the **correspondence section**, ensure it is added appropriately.  
-   - Validate image URLs to ensure they are **functional, accessible, and active** before including them.  
+   - Validate image URLs to ensure they are **functional, accessible, and active** before including them.
 
 6. **Header (No Navigation Links):**
    - Do not include **navigation links** in the header.
@@ -34,5 +34,32 @@ Review and edit only the `index.mjml` file to meet the following requirements.
 8. **Design Polished & Professional:**
    - The email should have a **premium look** with **clean typography**, **well-balanced layout**, and a **simple yet elegant design**.
 
-🚨 **Important:**  
-Only modify `index.mjml`. Do not change any other files under any circumstances.
+### Theme Details:
+- Primary Color: #2D3E50 (Deep blue for text)
+- Secondary Color: #FF6F61 (Vibrant coral for accents)
+- Background Color: #F9FAFB (Light, neutral gray background)
+- CTA Button Text Color: #FFFFFF (White for high contrast)
+- Footer Background Color: #1A1A1A (Dark footer for contrast)
+- Border Color: #E0E0E0 (Subtle border color for separation)
+- Link Color: #007BFF (Modern blue for links)
+
+### Typography:
+- Primary Font: Poppins, Arial, sans-serif
+- Heading Font: Poppins, Arial, sans-serif
+- Body Font Size: 16px
+- Heading Font Size: 24px
+- Button Font Size: 16px
+
+### Button Styles:
+- Background: linear-gradient(to right, #FF6F61, #DD2476)
+- Border Radius: 6px
+- Padding: 12px
+- Font Size: 16px
+- Font Weight: Bold
+
+### Footer Styles:
+- Footer Text Alignment: Center
+- Footer Padding: 20px
+- Social Icon Size: 30px
+
+Ensure that the design meets the requirements while maintaining a clean, professional, and visually appealing layout. Stick strictly to the given design parameters, focusing on a premium, polished look.

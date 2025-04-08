@@ -4,8 +4,8 @@
   "description": "A starter project for MJML with live reload.",
   "scripts": {
     "build": "mjml index.mjml -o index.html",
-    "watch": "chokidar index.mjml -c \"npm run build\"",
-    "dev": "concurrently --kill-others \"npm run watch\" \"vite\""
+    "watch": "chokidar index.mjml -c 'npm run build'",
+    "dev": "npm run build && concurrently \"npm run watch\" \"live-server --port=3000\""
   },
   "dependencies": {
     "mjml": "^4.13.0"
@@ -13,7 +13,6 @@
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
     "concurrently": "^8.2.0",
-    "live-server": "^1.2.2",
-    "vite": "^6.2.5"
+    "live-server": "^1.2.2"
   }
 }

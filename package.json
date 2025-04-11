@@ -8,12 +8,10 @@
     "dev": "npm run build && concurrently \"npm run watch\" \"live-server --watch=index.html --port=3000\""
 
   },
-  "dependencies": {
-    "mjml": "4.13.0"
-  },
   "devDependencies": {
+     "mjml": "4.13.0",
     "chokidar-cli": "3.0.0",
-    "concurrently": "8.2.0",
+    "concurrently": "8.2.2",
     "live-server": "1.2.2"
   }
 }

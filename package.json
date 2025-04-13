@@ -6,7 +6,7 @@
   "build": "mjml index.mjml -o index.html",
   "watch": "chokidar index.mjml -c \"pnpm run build\"",
   "dev": "concurrently --kill-others-on-fail=false \"pnpm run watch\" \"live-server --watch=index.html --port=3000\""
-  }
+  },
   "devDependencies": {
      "mjml": "4.13.0",
     "chokidar-cli": "3.0.0",
